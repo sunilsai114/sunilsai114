@@ -36,4 +36,4 @@ I am a results-driven Software Engineer specializing in building scalable, high-
 ### 📫 Connect with Me
 - **LinkedIn:** [in/sunil-mallela-8441bb160](https://www.linkedin.com/in/sunil-mallela-8441bb160)
 - **Email:** sunilsai2199@gmail.com
-- **Location:** Dallas, Tx
+- **Location:** Dallas, TX
