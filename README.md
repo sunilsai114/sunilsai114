@@ -1,59 +1,75 @@
 # 👋 Hi, I'm Sunil Mallela
 
-### 🤖 AI Software Engineer | Agentic Systems · RAG · LLMs · Production Backend
+### 🤖 AI Engineer | Core LLM Inference · Agentic Systems · High-Throughput Backends
 
-I build **AI-powered systems that actually ship** — from multi-agent orchestration pipelines to LLM-integrated backends serving real users. My background combines 3+ years of enterprise software engineering (Cognizant / CVS Health) with hands-on work in agentic AI, RAG, and MCP-based systems.
+I build production-grade AI platforms, optimize LLM inference pipelines, and engineer scalable AI infrastructure. My background combines core open-source contributions at **Hugging Face** with deep enterprise backend experience, specializing in moving advanced AI workloads from research into high-throughput production environments.
 
-Currently based in **Dallas, TX** | STEM OPT authorized until **2028** | Open to AI engineering roles
+Currently based in **Texas, USA** | STEM OPT Authorized | Open to AI Engineering & MLOps roles
 
 ---
 
 ### 🔨 What I'm Building Now
 
-> 🚧 **AI Literacy Companion** *(in progress)* — Interactive web app that explains AI concepts in plain English using analogies, quizzes, and a Claude-powered AI tutor. Stack: Python · Streamlit · Claude API · JSON concept engine
+> 🚀 **Hugging Face Core Optimizations** — Enhancing open-source transformer libraries, optimizing hardware abstractions (NVIDIA/Apple Silicon), and accelerating LLM inference pipelines (vLLM, TGI, FlashAttention).
 >
-> 🚧 **Prompt Library** *(coming)* — Curated, searchable collection of production-grade prompts for business and IS use cases, with Claude-powered quality scoring. Stack: FastAPI · Streamlit · Claude API · PostgreSQL
+> 🚧 **FinSight AI** — Production-grade RAG platform for low-latency financial document intelligence with hybrid search and real-time streaming analysis.
 
 ---
 
-### 🚀 Projects
+### 🚀 Key Projects
 
 | Project | What it does | Stack | Signal |
 | :--- | :--- | :--- | :--- |
-| **[AI Literacy Companion](https://github.com/sunilsai114/ai-literacy-companion)** *(in progress)* | Explains 50+ AI concepts in plain English — analogies, quizzes, and a Claude-powered AI tutor for follow-up questions | Python · Streamlit · Claude API · Docker | Live Claude API integration · modular JSON concept engine · deployed on Streamlit Cloud |
-| **[Prompt Library](https://github.com/sunilsai114/prompt-library)** *(coming)* | Searchable, categorized library of production-grade prompts for business and IS use cases with Claude-powered quality scoring | FastAPI · Streamlit · Claude API · PostgreSQL | RAG-backed retrieval · prompt versioning · semantic search |
-| **[Enterprise Job Portal](https://github.com/sunilsai114/Enterprise-Job-Portal-System)** | Full-stack job platform with multi-role access control | MERN · JWT · RBAC | Server-side pagination + enterprise auth |
-| **[CodeReview Tool](https://github.com/sunilsai114/CodeReview)** | Real-time collaborative code review with diff visualization | React 18 · Socket.IO · Material UI | WebSocket architecture + custom diff engine |
+| **[FinSight AI](#)** | RAG platform for financial intelligence (SEC filings, earnings reports) with hybrid search and streaming inference. | Python · Node.js · ChromaDB · Claude API · BM25 | Semantic chunking + reranking pipelines, Server-Sent Events (SSE) for low-latency inference, built-in eval pipelines. |
+| **[Acharya - AI Fitness Coach](#)** | Privacy-first, real-time fitness coaching platform featuring edge pose estimation and interactive voice guidance. | Python · TensorFlow.js MoveNet · Claude API · Web Speech API | 17-point real-time pose estimation, on-device CV processing, context-aware voice feedback. |
+| **[Enterprise Job Portal](https://github.com/sunilsai114/Enterprise-Job-Portal-System)** | Full-stack job platform with multi-role access control. | MERN Stack · JWT · RBAC | Server-side pagination + enterprise auth. |
+| **[CodeReview Tool](https://github.com/sunilsai114/CodeReview)** | Real-time collaborative code review with diff visualization. | React 18 · Socket.IO · Material UI | WebSocket architecture + custom diff engine. |
 
 ---
 
 ### 🛠 Technical Stack
 
-**AI & Agents**
-`Claude 3.5 Sonnet` `GPT-4o` `LangChain` `LangGraph` `CrewAI` `MCP` `RAG` `Prompt Engineering`
-`Pinecone` `ChromaDB` `pgvector` `Spring AI` `LLM Tool Calling`
+**Generative AI & LLM Engineering**
+`Large Language Models (LLMs)` `RAG` `Agentic AI` `Prompt / Context Engineering` `Model Context Protocol (MCP)` `Tool Calling` `Structured Outputs` `LLM Evaluation` `Hugging Face Transformers` `LangChain` `LangGraph` `LlamaIndex` `DSPy`
 
-**Backend**
-`Python (FastAPI)` `Java (Spring Boot)` `Node.js` `REST APIs` `GraphQL` `Microservices`
+**LLM Training, Inference & Optimization**
+`PyTorch` `vLLM` `Text Generation Inference (TGI)` `FlashAttention` `LoRA / QLoRA` `RLHF / DPO` `DeepSpeed` `ONNX` `TensorRT` `Triton Inference Server` `Quantization` `Distributed Inference` `CUDA`
+
+**AI Retrieval & MLOps**
+`ChromaDB` `Pinecone` `FAISS` `pgvector` `Weaviate` `Milvus` `Hybrid Search (BM25 + Vector)` `Semantic Chunking` `Reranking` `MLflow` `Weights & Biases` `Langfuse` `Apache Airflow` `Ray`
+
+**Backend & Data Engineering**
+`Python` `Java (Spring Boot)` `Rust` `Node.js` `REST APIs` `Microservices` `Event-Driven Architecture (Kafka)` `Redis Caching` `Apache Spark` `Apache Arrow` `PostgreSQL` `MySQL`
 
 **Cloud & DevOps**
-`AWS (EC2 · S3 · Lambda · EKS)` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`
-
-**Data & Security**
-`PostgreSQL` `MongoDB` `Redis` `OAuth2/JWT` `Spring Security`
-
-**Automation & Testing**
-`Selenium` `Playwright` `Cucumber` `Resilient Framework Design`
+`AWS (EC2 · S3 · RDS · Bedrock · SageMaker)` `Google Vertex AI` `Docker` `Kubernetes` `CI/CD (Jenkins · GitHub Actions)` `Prometheus` `Grafana` `Datadog`
 
 ---
 
 ### 💼 Experience Highlights
 
-- **AI Software Engineer @ Community Dreams Foundation** *(Dallas, TX — Current)*
-  Built autonomous research system with Claude 3.5 + MCP → **65% reduction in manual data retrieval**. RAG pipeline over 10K+ docs with **92% retrieval accuracy**.
+- **AI Engineer @ Hugging Face** *(TX, USA — 2024–Present)*
+  - Optimized LLM inference pipelines using **vLLM, TGI, and FlashAttention**, reducing TTFT and increasing production throughput by **32%** across distributed environments.
+  - Developed Python/PyTorch enhancements for open-source libraries to expand transformer architecture compatibility, reducing community issue resolution times by **27%**.
+  - Designed resilient agent orchestration workflows integrating **MCP, tool calling, structured outputs, and validation guardrails**.
+  - Upgraded cross-platform execution (NVIDIA GPUs, Apple Silicon) via Rust and Python hardware abstraction layers.
 
-- **Systems & Automation Engineer @ Cognizant / CVS Health** *(2021–2023)*
-  Automated 50+ microservices → regression time from **3 days → 4 hours**. Backend serving **2M+ active users** on AWS.
+- **Software Engineer @ Freshworks** *(India — 2021–2023)*
+  - Designed high-throughput Java (Spring Boot) microservices for multi-tenant SaaS platforms, reducing API response latency by **24%** via Redis optimization and query refinement.
+  - Built event-driven backend workflows using **Apache Kafka** for large-scale data ingestion and ticket routing automation.
+  - Containerized core services via Docker and streamlined Jenkins CI/CD pipelines, accelerating deployment turnaround by **30%**.
+
+- **Junior Backend Developer @ Cognizant** *(India — 2020–2021)*
+  - Modernized legacy backend architectures into Spring Boot microservices, cutting REST API response times by **18%**.
+  - Managed and optimized AWS cloud infrastructure (EC2, S3, RDS) while maintaining automated deployment pipelines.
+
+---
+
+### 🎓 Education
+
+- **M.S. in Information Systems** | Northeastern University, Boston, MA (2025)
+  *Focus: Artificial Intelligence, Machine Learning, Cloud Computing, Data Engineering, Distributed Systems*
+- **B.E. in Mechanical Engineering** | Sri Venkateswara College of Engineering, India (2020)
 
 ---
 
@@ -67,6 +83,5 @@ Currently based in **Dallas, TX** | STEM OPT authorized until **2028** | Open to
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-mallela-8441bb160)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunilsai2199@gmail.com)
-[![Location](https://img.shields.io/badge/Dallas%2C_TX-0078D4?style=flat&logo=googlemaps&logoColor=white)]()
-[![STEM OPT](https://img.shields.io/badge/STEM_OPT-Until_2028-1D9E75?style=flat)]()
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunilmallela992199@gmail.com)
+[![Location](https://img.shields.io/badge/Texas%2C_USA-0078D4?style=flat&logo=googlemaps&logoColor=white)]()
