@@ -2,7 +2,7 @@
 
 ### 🚜 Senior Software Engineer – AI, Autonomous Systems @ Caterpillar Inc.
 
-**Mechanical engineer → backend engineer → AI engineer → autonomous systems.** I started by designing physical machines, spent years building backend platforms and production LLM infrastructure (including open-source work at **Hugging Face**), and now I bring all three together: AI software that runs on heavy machinery.
+**Mechanical engineer → backend engineer → AI engineer → autonomous systems.** I started by designing physical machines, spent years building backend platforms and production LLM infrastructure, and now I bring all three together: AI software that runs on heavy machinery.
 
 Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sunilsai114.github.io)**
 
