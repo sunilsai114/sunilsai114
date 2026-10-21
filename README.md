@@ -1,18 +1,29 @@
 # 👋 Hi, I'm Sunil Mallela
 
-### 🤖 AI Engineer | Core LLM Inference · Agentic Systems · High-Throughput Backends
+### 🚜 Senior Software Engineer – AI, Autonomous Systems @ Caterpillar Inc.
 
-I build production-grade AI platforms, optimize LLM inference pipelines, and engineer scalable AI infrastructure. My background combines core open-source contributions at **Hugging Face** with deep enterprise backend experience, specializing in moving advanced AI workloads from research into high-throughput production environments.
+**Mechanical engineer → backend engineer → AI engineer → autonomous systems.** I started by designing physical machines, spent years building backend platforms and production LLM infrastructure (including open-source work at **Hugging Face**), and now I bring all three together: AI software that runs on heavy machinery.
 
-Currently based in **Texas, USA** | STEM OPT Authorized | Open to AI Engineering & MLOps roles
+Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sunilsai114.github.io)**
 
 ---
 
 ### 🔨 What I'm Building Now
 
-> 🚀 **Hugging Face Core Optimizations** — Enhancing open-source transformer libraries, optimizing hardware abstractions (NVIDIA/Apple Silicon), and accelerating LLM inference pipelines (vLLM, TGI, FlashAttention).
+> 🚜 **Autonomous Systems @ Caterpillar** *(starting Oct 2026)* — Building autonomous systems for Caterpillar products and implementing AI initiatives, working across robotics, simulation, automation and software teams, and acting as the bridge between hardware and software.
 >
 > 🚧 **FinSight AI** — Production-grade RAG platform for low-latency financial document intelligence with hybrid search and real-time streaming analysis.
+
+---
+
+### 🧭 My Path: The Autonomy Loop
+
+| Stage | Years | What I did |
+| :--- | :--- | :--- |
+| **Act · Mechanical design** | 2016–2020 | B.E. Mechanical Engineering, certified 3DEXPERIENCE designer, Dassault Systèmes Best Prototype award (27 countries) |
+| **Connect · Backend systems** | 2020–2023 | Spring Boot microservices and Kafka pipelines at Cognizant and Freshworks |
+| **Think · Generative AI & LLMs** | 2023–2026 | M.S. at Northeastern, then LLM inference and agent infrastructure at Hugging Face |
+| **Integrate · Autonomous systems** | Oct 2026– | AI for autonomous heavy machinery at Caterpillar |
 
 ---
 
@@ -28,6 +39,9 @@ Currently based in **Texas, USA** | STEM OPT Authorized | Open to AI Engineering
 ---
 
 ### 🛠 Technical Stack
+
+**Mechanical & Hardware**
+`3DEXPERIENCE` `3DSwymer` `Mechanical Design` `Prototyping`
 
 **Generative AI & LLM Engineering**
 `Large Language Models (LLMs)` `RAG` `Agentic AI` `Prompt / Context Engineering` `Model Context Protocol (MCP)` `Tool Calling` `Structured Outputs` `LLM Evaluation` `Hugging Face Transformers` `LangChain` `LangGraph` `LlamaIndex` `DSPy`
@@ -48,7 +62,12 @@ Currently based in **Texas, USA** | STEM OPT Authorized | Open to AI Engineering
 
 ### 💼 Experience Highlights
 
-- **AI Engineer @ Hugging Face** *(TX, USA — 2024–Present)*
+- **Senior Software Engineer – AI, Autonomous Systems @ Caterpillar Inc.** *(Oct 2026–Present)*
+  - Building autonomous systems for Caterpillar products and implementing AI initiatives.
+  - Working cross-functionally with robotics, simulation, automation and software development teams.
+  - Acting as the bridge between hardware and software systems.
+
+- **AI Engineer @ Hugging Face** *(TX, USA — 2024–2026)*
   - Optimized LLM inference pipelines using **vLLM, TGI, and FlashAttention**, reducing TTFT and increasing production throughput by **32%** across distributed environments.
   - Developed Python/PyTorch enhancements for open-source libraries to expand transformer architecture compatibility, reducing community issue resolution times by **27%**.
   - Designed resilient agent orchestration workflows integrating **MCP, tool calling, structured outputs, and validation guardrails**.
@@ -65,11 +84,12 @@ Currently based in **Texas, USA** | STEM OPT Authorized | Open to AI Engineering
 
 ---
 
-### 🎓 Education
+### 🎓 Education & Honors
 
 - **M.S. in Information Systems** | Northeastern University, Boston, MA (2025)
   *Focus: Artificial Intelligence, Machine Learning, Cloud Computing, Data Engineering, Distributed Systems*
 - **B.E. in Mechanical Engineering** | Sri Venkateswara College of Engineering, India (2020)
+- 🏆 Best Prototype Award, Dassault Systèmes global student competition (27 countries) · Best Mechanical Engineering Student, Andhra Pradesh (ISTE)
 
 ---
 
@@ -82,6 +102,7 @@ Currently based in **Texas, USA** | STEM OPT Authorized | Open to AI Engineering
 
 ### 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFCB05?style=flat&logo=googlechrome&logoColor=black)](https://sunilsai114.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunil-mallela-8441bb160)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sunilmallela992199@gmail.com)
 [![Location](https://img.shields.io/badge/Texas%2C_USA-0078D4?style=flat&logo=googlemaps&logoColor=white)]()
