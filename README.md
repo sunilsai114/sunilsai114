@@ -20,7 +20,7 @@ Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sun
 
 | Stage | Years | What I did |
 | :--- | :--- | :--- |
-| **Act · Mechanical design** | 2016 to 2020 | B.E. Mechanical Engineering, certified 3DEXPERIENCE designer, Dassault Systèmes Best Prototype award (27 countries) |
+| **Act · Mechanical design** | 2016 to 2020 | B.E. Mechanical Engineering, certified 3DEXPERIENCE designer, placed 7th in Dassault Systèmes Project of the Year 2020 (27 countries) |
 | **Connect · Backend systems** | 2020 to 2023 | Spring Boot microservices and Kafka pipelines at Cognizant and Freshworks |
 | **Think · Generative AI & LLMs** | 2023 to 2026 | M.S. at Northeastern, then LLM inference and agent infrastructure as an AI Engineer |
 | **Integrate · Autonomous systems** | Oct 2026 to Present | AI for autonomous heavy machinery at Caterpillar |
@@ -89,7 +89,7 @@ Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sun
 - **M.S. in Information Systems** | Northeastern University, Boston, MA (2025)
   *Focus: Artificial Intelligence, Machine Learning, Cloud Computing, Data Engineering, Distributed Systems*
 - **B.E. in Mechanical Engineering** | Sri Venkateswara College of Engineering, India (2020)
-- 🏆 Best Prototype Award, Dassault Systèmes global student competition (27 countries) · Best Mechanical Engineering Student, Andhra Pradesh (ISTE)
+- 🏆 7th Place, Project of the Year 2020, Dassault Systèmes international student competition (27 countries) · Best Mechanical Engineering Student, Andhra Pradesh (ISTE)
 
 ---
 
