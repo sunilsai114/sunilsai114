@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sunil Mallela
 
-### 🚜 Senior Software Engineer – AI, Autonomous Systems @ Caterpillar Inc.
+### 🚜 Senior Software Engineer, AI, Autonomous Systems @ Caterpillar Inc.
 
 **Mechanical engineer → backend engineer → AI engineer → autonomous systems.** I started by designing physical machines, spent years building backend platforms and production LLM infrastructure, and now I bring all three together: AI software that runs on heavy machinery.
 
@@ -10,9 +10,9 @@ Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sun
 
 ### 🔨 What I'm Building Now
 
-> 🚜 **Autonomous Systems @ Caterpillar** *(starting Oct 2026)* — Building autonomous systems for Caterpillar products and implementing AI initiatives, working across robotics, simulation, automation and software teams, and acting as the bridge between hardware and software.
+> 🚜 **Autonomous Systems @ Caterpillar** *(starting Oct 2026)*: Building autonomous systems for Caterpillar products and implementing AI initiatives, working across robotics, simulation, automation and software teams, and acting as the bridge between hardware and software.
 >
-> 🚧 **FinSight AI** — Production-grade RAG platform for low-latency financial document intelligence with hybrid search and real-time streaming analysis.
+> 🚧 **FinSight AI**: Production-grade RAG platform for low-latency financial document intelligence with hybrid search and real-time streaming analysis.
 
 ---
 
@@ -20,10 +20,10 @@ Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sun
 
 | Stage | Years | What I did |
 | :--- | :--- | :--- |
-| **Act · Mechanical design** | 2016–2020 | B.E. Mechanical Engineering, certified 3DEXPERIENCE designer, Dassault Systèmes Best Prototype award (27 countries) |
-| **Connect · Backend systems** | 2020–2023 | Spring Boot microservices and Kafka pipelines at Cognizant and Freshworks |
-| **Think · Generative AI & LLMs** | 2023–2026 | M.S. at Northeastern, then LLM inference and agent infrastructure at Hugging Face |
-| **Integrate · Autonomous systems** | Oct 2026– | AI for autonomous heavy machinery at Caterpillar |
+| **Act · Mechanical design** | 2016 to 2020 | B.E. Mechanical Engineering, certified 3DEXPERIENCE designer, Dassault Systèmes Best Prototype award (27 countries) |
+| **Connect · Backend systems** | 2020 to 2023 | Spring Boot microservices and Kafka pipelines at Cognizant and Freshworks |
+| **Think · Generative AI & LLMs** | 2023 to 2026 | M.S. at Northeastern, then LLM inference and agent infrastructure as an AI Engineer |
+| **Integrate · Autonomous systems** | Oct 2026 to Present | AI for autonomous heavy machinery at Caterpillar |
 
 ---
 
@@ -62,23 +62,23 @@ Based in **Texas, USA** · 🌐 **Portfolio: [sunilsai114.github.io](https://sun
 
 ### 💼 Experience Highlights
 
-- **Senior Software Engineer – AI, Autonomous Systems @ Caterpillar Inc.** *(Oct 2026–Present)*
+- **Senior Software Engineer, AI, Autonomous Systems @ Caterpillar Inc.** *(Oct 2026 to Present)*
   - Building autonomous systems for Caterpillar products and implementing AI initiatives.
   - Working cross-functionally with robotics, simulation, automation and software development teams.
   - Acting as the bridge between hardware and software systems.
 
-- **AI Engineer @ Hugging Face** *(TX, USA — 2024–2026)*
+- **AI Engineer** *(TX, USA, 2024 to 2026)*
   - Optimized LLM inference pipelines using **vLLM, TGI, and FlashAttention**, reducing TTFT and increasing production throughput by **32%** across distributed environments.
   - Developed Python/PyTorch enhancements for open-source libraries to expand transformer architecture compatibility, reducing community issue resolution times by **27%**.
   - Designed resilient agent orchestration workflows integrating **MCP, tool calling, structured outputs, and validation guardrails**.
   - Upgraded cross-platform execution (NVIDIA GPUs, Apple Silicon) via Rust and Python hardware abstraction layers.
 
-- **Software Engineer @ Freshworks** *(India — 2021–2023)*
+- **Software Engineer @ Freshworks** *(India, 2021 to 2023)*
   - Designed high-throughput Java (Spring Boot) microservices for multi-tenant SaaS platforms, reducing API response latency by **24%** via Redis optimization and query refinement.
   - Built event-driven backend workflows using **Apache Kafka** for large-scale data ingestion and ticket routing automation.
   - Containerized core services via Docker and streamlined Jenkins CI/CD pipelines, accelerating deployment turnaround by **30%**.
 
-- **Junior Backend Developer @ Cognizant** *(India — 2020–2021)*
+- **Junior Backend Developer @ Cognizant** *(India, 2020 to 2021)*
   - Modernized legacy backend architectures into Spring Boot microservices, cutting REST API response times by **18%**.
   - Managed and optimized AWS cloud infrastructure (EC2, S3, RDS) while maintaining automated deployment pipelines.
 
